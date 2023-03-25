@@ -34,6 +34,23 @@
 
 ![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_7.png "load_balance")
 
+**Пример конфига:**
+
+```
+auto bond0
+
+iface bond0 inet static
+    address 10.31.1.5
+    netmask 255.255.255.0
+    network 10.31.1.0
+    gateway 10.31.1.254
+    bond-slaves eth0 eth1
+    bond-mode active-backup
+    bond-miimon 100
+    bond-downdelay 200
+    bond-updelay 200
+```
+
 5. Сколько IP-адресов в сети с маской /29 ? Сколько /29 подсетей можно получить из сети с маской /24. Приведите несколько примеров /29 подсетей внутри сети 10.10.10.0/24.
 
 ### Ответ
