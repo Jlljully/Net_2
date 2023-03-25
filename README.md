@@ -24,13 +24,15 @@
 
 **VLAN, и пакет одноименный**
 
-![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_6.png "")
+![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_6.png "VLAN_conf")
 
 4. Какие типы агрегации интерфейсов есть в Linux? Какие опции есть для балансировки нагрузки? Приведите пример конфига.
 
 ### Ответ
 
-**LAG в linux называется bond (bonding), в windows - teaming**
+**LAG в linux называется bond (bonding), в windows - teaming. Балансировка может настраиваться по портам, по макам или по айпи:**
+
+![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_7.png "load_balance")
 
 5. Сколько IP-адресов в сети с маской /29 ? Сколько /29 подсетей можно получить из сети с маской /24. Приведите несколько примеров /29 подсетей внутри сети 10.10.10.0/24.
 
