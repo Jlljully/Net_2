@@ -34,7 +34,7 @@
 
 ![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_7.png "load_balance")
 
-**Пример конфига:**
+**Пример конфига без балансировки (с резервированием):**
 
 ```
 auto bond0
