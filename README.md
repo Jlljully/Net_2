@@ -4,6 +4,11 @@
 
 ### Ответ
 
+![скрин](https://github.com/Jlljully/devops_netology3/blob/main/Screenshot_10.png "strace cd")
+
+![скрин](https://github.com/Jlljully/devops_netology3/blob/main/Screenshot_10.png "strace cd")
+
+**Или ip a**
 
 2. Какой протокол используется для распознавания соседа по сетевому интерфейсу? Какой пакет и команды есть в Linux для этого?
 
