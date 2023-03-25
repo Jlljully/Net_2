@@ -4,9 +4,9 @@
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/devops_netology3/blob/main/Screenshot_10.png "strace cd")
+![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_3.png "")
 
-![скрин](https://github.com/Jlljully/devops_netology3/blob/main/Screenshot_10.png "strace cd")
+![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_4.png "")
 
 **Или ip a**
 
@@ -14,6 +14,9 @@
 
 ### Ответ
 
+**Протокол LLDP**
+
+![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_5.png "")
 
 3. Какая технология используется для разделения L2-коммутатора на несколько виртуальных сетей? Какой пакет и команды есть в Linux для этого? Приведите пример конфига.
 
