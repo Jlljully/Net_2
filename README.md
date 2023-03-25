@@ -4,9 +4,9 @@
 
 ### Ответ
 
-![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_3.png "")
+![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_3.png "win")
 
-![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_4.png "")
+![скрин](https://github.com/Jlljully/Net2/blob/main/Screenshot_4.png "lin")
 
 **Или ip a**
 
